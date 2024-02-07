@@ -148,6 +148,13 @@ The K-Nearest Neighbour model achieved the highest accuracy of approximately 84.
 
 <strong>Based on the Target Bar-Chart, we see that more individuals have a heart condition than the one's who don't.</strong>
 
+
+<strong>Based on the ROC-Curve, we see:</strong>
+
+- The curve climbs quickly towards the top-left corner, indicating a good true positive rate when the false positive rate is low
+- The AUC of 0.77 implies that there's a 77% chance the model will distinguish between a patient with heart disease and one without if chosen at random.
+- While not perfect, the curve suggests the model has a reasonable predictive power and could be useful in a clinical setting for preliminary assessments.
+
 <h2>Recommendation and Predictions</h2>
 
 - Older age and higher resting blood pressure could indicate a higher risk for heart disease.
