@@ -2,8 +2,9 @@
 
 <h2>Description</h2>
 
-This project is a pivotal venture into medical data science, aiming to discern and predict heart disease presence through comprehensive data analysis. This project dives into the complexity of cardiovascular health, employing advanced machine learning techniques to sift through clinical and physiological data. 
-By meticulously preprocessing data, engineering relevant features, and deploying sophisticated models such as Decision Trees and Random Forests, this endeavor offers invaluable insights for healthcare professionals. 
+This project is a pivotal venture into medical data science, aiming to discern and predict heart disease presence through comprehensive data analysis. 
+
+This project dives into the complexity of cardiovascular health, employing advanced machine learning techniques to sift through clinical and physiological data. By meticulously preprocessing data, engineering relevant features, and deploying sophisticated models such as Decision Trees and Random Forests, this endeavor offers invaluable insights for healthcare professionals. 
 It stands as a beacon for leveraging technology in medical diagnostics, promising enhanced predictive accuracy and operational strategies in heart health management.n
 
 <h2>Project Overview</h2>
